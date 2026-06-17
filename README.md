@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Mohammad Musaib<br><br>## 🚀 About Me<br><br>🎓 Software Engineering Student at Sindh Madressatul Islam University (SMIU)<br><br>I am passionate about Artificial Intelligence, Machine Learning, Virtual Reality, Prompt Engineering, and Software Development. I enjoy building innovative solutions, exploring emerging technologies, and continuously improving my technical and leadership skills.<br><br><br>  <br>
+# Hi there 👋, I'm Mohammad Musaib<br><br> <br><br>🎓 Software Engineering Student at Sindh Madressatul Islam University (SMIU)<br><br>I am passionate about Artificial Intelligence, Machine Learning, Virtual Reality, Prompt Engineering, and Software Development. I enjoy building innovative solutions, exploring emerging technologies, and continuously improving my technical and leadership skills.<br><br><br>  <br>
 
 
 ## 🌐 Socials:
