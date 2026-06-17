@@ -1,5 +1,31 @@
-# 💫 About Me:
-# Hi there 👋, I'm Mohammad Musaib<br><br><br><br>🎓 Software Engineering Student at Sindh Madressatul Islam University (SMIU)<br><br>I am passionate about Artificial Intelligence, Machine Learning, Virtual Reality, Prompt Engineering, and Software Development. I enjoy building innovative solutions, exploring emerging technologies, and continuously improving my technical and leadership skills.<br><br><br>  <br>
+# 💫 Hi 👋, I'm Mohammad Musaib
+
+**A passionate Software Engineering Student || AI & ML Enthusiast || Flutter Developer || Exploring Agentic AI, Virtual Reality & Cloud Technologies from Pakistan**
+
+📧 Email Me 👉 **[aghak675@gmail.com](mailto:aghak675@gmail.com)** for collaboration, projects, open-source contributions, or tech discussions. 🚀
+
+* 🔭 **I’m currently working on:** Software Engineering projects, Flutter applications, and AI-based learning projects
+* 🌱 **I’m currently learning:** Artificial Intelligence, Machine Learning, Agentic AI, Virtual Reality, Cloud Computing, and Advanced Software Engineering
+* 👯 **I’m looking to collaborate on:** AI Projects, Flutter Applications, Open Source Contributions, and Innovative Tech Solutions
+* 🤔 **I’m looking for help with:** Advanced AI Development, Machine Learning Models, and Virtual Reality Systems
+* 💬 **Ask me about:** AI, Flutter, Software Engineering, Event Management, Leadership, and Community Building
+* 📫 **How to reach me:** [aghak675@gmail.com](mailto:aghak675@gmail.com)
+* 😄 **Pronouns:** He/Him
+* ⚡ **Fun fact:** I enjoy combining technology, leadership, and community impact to create meaningful solutions.
+
+## 🏆 Leadership & Community Experience
+
+* Team Lead — VSO Pakistan
+* Participant — Safar-e-Aman Fellowship (Collective Pakistan)
+* Contributor — Youth Innovation Challenge (Prime Minister Youth Program)
+* Volunteer — SDRC
+* Team Member — Safar Buddies
+* Event Organizer — Sindh Madressatul Islam University (SMIU)
+* Active in community engagement, fundraising, teamwork, and leadership initiatives
+
+## 🎯 Career Vision
+
+My goal is to become an AI Engineer specializing in Artificial Intelligence, Machine Learning, Agentic AI, Prompt Engineering, and Virtual Reality technologies. I aspire to build intelligent systems and innovative solutions that create meaningful real-world impact.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100030616867861) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aghakhan58?igsh=MW0yZWcxZjB1bG04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-musaib-a8139339a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aghak675@gmail.com) 
