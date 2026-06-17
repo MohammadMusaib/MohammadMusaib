@@ -79,5 +79,7 @@ My goal is to become an AI Engineer specializing in Artificial Intelligence, Age
 ## 📫 Connect With Me
 
 - https://www.linkedin.com/in/mohammad-musaib-a8139339a/
+- https://www.instagram.com/aghakhan58?igsh=MW0yZWcxZjB1bG04
+- https://www.facebook.com/profile.php?id=100030616867861
 - aghak675@gmail.comEmail
   
