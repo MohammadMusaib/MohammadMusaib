@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋, I'm Mohammad Musaib
 
 ## 🚀 About Me
@@ -80,18 +78,6 @@ My goal is to become an AI Engineer specializing in Artificial Intelligence, Age
 
 ## 📫 Connect With Me
 
-- https://www.linkedin.com/in/mohammad-musaib-a8139339a/LinkedIn: Your LinkedIn URL
-- aghak675@gmail.comEmail: Your Email<!--
-**MohammadMusaib/MohammadMusaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- https://www.linkedin.com/in/mohammad-musaib-a8139339a/
+- aghak675@gmail.comEmail
+  
